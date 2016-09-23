@@ -1,9 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Yatra+One';
 body{
 	font-family: 'Open Sans', sans-serif;
 }
 h2.title-container{
 	font-size: 35px;
 	font-weight: 600;
+	color: #F60400;
+	font-family: 'Yatra One', cursive;
 }
 .padding-30{
 	padding:30px;
@@ -118,8 +121,11 @@ h2.title-container{
 	background:rgba(0,0,0,0.5);
 }*/
 .container-top .text-hero h1 {
-	font-size:55px;
+	font-size:70px;
 }
+.navbar-collapse .navbar-nav{
+	margin-left: 25%;
+}/*********es el menuuuuuu**********/
 .container-top .botones{
 	text-align: center;
 	padding: 15px;
