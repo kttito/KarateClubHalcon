@@ -318,6 +318,9 @@ h2.title-container{
 	list-style: none;
 	padding: 10px 0;
 }
+.content-contact .icon{
+	font-size: 25px;
+}
 /*footer************/
 .redes .social{
 	margin: 70px 0;
