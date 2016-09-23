@@ -35,7 +35,7 @@ h2.title-container{
 .navbar-default .navbar-nav>li>a{
 	color: #000;
 	font-size: 16px;
-	/*font-weight: bold;*/
+	font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a:hover{
 	color: #E11E24;
